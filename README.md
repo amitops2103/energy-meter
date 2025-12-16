@@ -4,7 +4,7 @@
 ### 1. Abstract 
 The IoT-Based Smart Energy Meter is an intelligent energy monitoring system designed to measure and track voltage, current, power consumption, and cost estimation for multiple household appliances. The system utilizes an ESP32 microcontroller connected to current and voltage sensorsto obtain real-time energy data. This data is processed, displayed and sent to an IoT dashboard and stored for historical analysis.
 
-The project incorporates relays and for remote appliance control while ensuring electrical safety. A Google Sheets webhook is integrated to log energy data for further analysis. Machine Learning algorithms can be applied to predict usage patterns and optimize energy consumption.
+The project incorporates relays and for remote appliance control while ensuring electrical safety. A Google Sheets webbook is integrated to log energy data for further analysis. Machine Learning algorithms can be applied to predict usage patterns and optimize energy consumption.
 
 Key challenges such as WiFi disconnection, inaccurate sensor readings, and overheating are mitigated through automatic reconnection mechanisms, software filtering techniques, and efficient PCB design with heat management solutions. Future enhancements include AI-based load prediction, solar energy integration, and voice control via Google Assistant/Alexa.
 
