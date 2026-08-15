@@ -485,9 +485,9 @@ In conclusion, the project demonstrates how **affordable hardware** and **open-s
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A special thanks to :
-1. Mr. Smruti Ranjan rout [GitHub](https://github.com/smrutiranjan2004)
-2. Mr. Sumit Singh [GitHub](https://github.com/SitSumitSingh)
-3. Mr. Priyanshu Sinha [GitHub](https://github.com/PriyanshuSINHA1947)
+1. Mr. Sumit Singh [GitHub](https://github.com/SitSumitSingh)
+2. Mr. Priyanshu Sinha [GitHub](https://github.com/PriyanshuSINHA1947)
+3. Mr. Gomesh Agarwal [Github](https://github.com/gomeshagarwal)
 
 
   
